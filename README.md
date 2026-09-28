@@ -1,4 +1,4 @@
-## Hi am ABHINAND SHAH 👋
+## Hi, I'm ABHINAND 👋
 
 <!--
 **abhinandshah/abhinandshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
