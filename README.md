@@ -8,6 +8,9 @@
 
 <div align="center">
 
+<img width="465" height="550" alt="IMG_20220914_192530" src="https://github.com/user-attachments/assets/1962e2a3-397f-47ee-8f57-db4d3c158e60" />
+
+
 # 🌍 ABHINAND SHAH
 
 ### GIS Analyst • GIS & Remote Sensing • WebGIS
