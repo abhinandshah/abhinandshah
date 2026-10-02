@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="screenshots/logoo.png" alt="logo" width="150" style="border-radius: 50%;">
+<img src="screenshots/lo.png" alt="logo" width="150" style="border-radius: 50%;">
 
 
 
