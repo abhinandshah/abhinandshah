@@ -8,7 +8,8 @@
 
 <div align="center">
 
-<img src="screenshots/logoo.jpg" alt="logo" width="100" style="clip-path: circle(50%);">
+<img src="screenshots/logoo.jpg" alt="logo" width="100" style="border-radius: 50%;">
+
 
 
 
